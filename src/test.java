@@ -1,7 +1,6 @@
 
 public class Test {
-	void m(){
-		System.out.println("+++");
+	void m(int i){
 		System.out.println("----");
 	}
 }
