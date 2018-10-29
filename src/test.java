@@ -1,6 +1,6 @@
 
 public class Test {
-	void m() {
-	    int a = 5;
+	void n() {
+	    int a = 6;
 	  }
 }
