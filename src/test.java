@@ -1,6 +1,6 @@
 
-public class test {
-	void m(){
-		
-	}
+public class Test {
+	void m() {
+	    int a = 5;
+	  }
 }
